@@ -6,8 +6,8 @@ import { promisify } from 'util';
 
 const execAsync = promisify(exec);
 
-const PAGES_DIR = path.resolve('../pages');
-const OUTPUT_DIR = path.resolve('../scrapbox_pages');
+const PAGES_DIR = path.join(__dirname, '../pages');
+const OUTPUT_DIR = path.join(__dirname, '../scrapbox_pages');
 
 /**
  * Markdownファイルからフロントマターを削除し、Scrapbox形式に変換する
