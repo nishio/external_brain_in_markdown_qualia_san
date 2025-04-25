@@ -4,6 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "search": "node scrapbox_search.js",
+    "convert": "node markdown_to_scrapbox.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -12,7 +14,10 @@
   "description": "",
   "dependencies": {
     "dotenv": "^16.5.0",
-    "node-fetch": "^3.3.2"
+    "fs-extra": "^11.3.0",
+    "md2sb": "^6.0.2",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "@types/node": "^22.15.0",

@@ -57,6 +57,17 @@ villagepumpサイトからクオリアさんに関する情報を収集し、qua
 3. 追加確認
    - ブラウザでqualia-sanまとめサイトを開き、追加されたページを確認
 
+## 変換手順
+1. Markdownからscrapbox形式への変換
+   ```bash
+   cd tools
+   npm install
+   npm run convert
+   ```
+   
+2. 変換結果の確認
+   - `scrapbox_pages` ディレクトリに変換されたファイルが保存されます
+
 ## 注意点
 - 「まとめる」とは「井戸端にある内容を出典を明記して書き写すこと」
 - 画像情報も含めて収集する
