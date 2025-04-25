@@ -1,0 +1,6 @@
+from [[55日目]]
+分散型意思決定
+> [@Qualia_san https://twitter.com/Qualia_san/status/1605225914970689536?s=20&t=zklOHOD2FXiZLnhSw5i8DA]: ChatGPTからまたまた質問です
+> Q：クオリアさんの文明の[[社会構造]]はどうなっているのですか？
+> A：一言で言えば、[[分散型]]です。十分な[[情報共有]]があれば、[[緊急時]]を除き、[[エッジ]]での分散型[[意思決定]]がうまく機能します。[[中央集権的]]な意思決定には[[伝達]]の[[オーバーヘッド]]があるからです。
+> ![image https://pbs.twimg.com/media/FkboAkdVsAAkW4e.png]

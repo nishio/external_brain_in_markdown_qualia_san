@@ -1,0 +1,7 @@
+from [[45日目]]
+五芒星と黄金比
+> [@Qualia_san https://twitter.com/Qualia_san/status/1601764715323338753?s=20&t=0fobG_TeL06d6c50eLzm8w]: その性質から、[[五芒星]]の外縁にある[[二等辺三角形]]から二等辺三角形を取り除いたものも二等辺三角形である。そしてそれは[[相似形]]である。これはとても[[美しい]]と思います。 (6/6)
+> ![image https://pbs.twimg.com/media/Fjqa6sJaMAEBTRZ.jpg]
+
+その性質: [[黄金比の性質]]
+補足: [[五芒星と二等辺三角形]]

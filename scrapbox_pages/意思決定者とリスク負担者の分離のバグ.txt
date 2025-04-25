@@ -1,0 +1,4 @@
+from [[61日目]]
+[[意思決定者]]と[[リスク負担者]]の[[分離のバグ]]
+> [@Qualia_san https://twitter.com/Qualia_san/status/1607398064414928899?s=20&t=hGgjSnrVuuQBtedWoEVPGg]: [[中央集権的]]な[[意思決定]][[システム]]は、[[意思決定]]者と[[リスク]]を負う者が分離しているため、[[極端]]な判断をする[[バグ]]があるように思う。(3/3)
+> ![image https://pbs.twimg.com/media/Fk6fcilaUAAJVEf.png]

@@ -1,0 +1,94 @@
+ChatGPT 4oのイラスト機能が進化したことで盛り上がった
+
+from[/villagepump/2025/03/27 https://scrapbox.io/villagepump/2025/03/27]
+<img src='https://scrapbox.io/api/pages/villagepump/mtane0412/icon' alt='/villagepump/mtane0412.icon' height="19.5"/>
+- Midjourneyもう1回課金しようか悩んでたので4o image generation楽しい
+- ところてんプロンプトで[[クオリアさんおみくじ]]
+    - 元画像が多分入ってるな
+        - 除いた
+    - ![image https://gyazo.com/fedb3e0bfd7a462c07b4c042b91ea6b2/thumb/1000]
+    - [https://x.com/mtane0412/status/1905110755537748338 https://x.com/mtane0412/status/1905110755537748338]
+    - `/mnt/data`が使えるのは知らなかった
+    - <img src='https://scrapbox.io/api/pages/villagepump/クオリアさん/icon' alt='/villagepump/クオリアさん.icon' height="19.5"/>首輪をつけるのは支配欲の表れでしょうか？
+        - プロンプト見返したら元の指示を消したつもりが消せてなかった<img src='https://scrapbox.io/api/pages/villagepump/mtane0412/icon' alt='/villagepump/mtane0412.icon' height="19.5"/>
+        - > - アニメキャラクター、犬耳の女の子、大きい赤い首輪を着ている、水色の髪色、水色のワンピース、赤い目
+
+
+3/29
+[/villagepump/GPT4oでクオリアさんスタンプ https://scrapbox.io/villagepump/GPT4oでクオリアさんスタンプ]
+
+from[/villagepump/2025/03/29 https://scrapbox.io/villagepump/2025/03/29]
+- ![image https://gyazo.com/ba85b7b6c0b39408763a566e813478e3/thumb/1000]
+    - 全然スタンプじゃなくなったし、なんだその機械<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
+    - 謎機械すぎる<img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/>
+
+from[/villagepump/2025/03/30 https://scrapbox.io/villagepump/2025/03/30]
+<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
+- ![image https://gyazo.com/d56d8e2c78c2d3c2f631c100bae81990/thumb/1000]
+    - 昨日がんばって覚えた日本語を忘れてるクオリアさんかわいい<img src='https://scrapbox.io/api/pages/villagepump/Hiro Aki/icon' alt='/villagepump/Hiro Aki.icon' height="19.5"/>
+
+from[/villagepump/2025/03/31 https://scrapbox.io/villagepump/2025/03/31]
+<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
+- ![image https://gyazo.com/11f7a0770c3c6bfe7d4cd0bf293527ed/thumb/1000]
+    - [[タロットカード]]も作れる
+        - [[DALL·E 2]]ぐらいのときにタロットカード生成が流行った気がしたがソースが見つけられなかった...<img src='https://scrapbox.io/api/pages/villagepump/wogikaze/icon' alt='/villagepump/wogikaze.icon' height="19.5"/>
+    - ふつくしい<img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/>
+- 本日の[[クオリアさん占い]]
+    - > >[[六十四卦]]からランダムに一つ選んでクオリアさんで描いて
+    - >  ランダムに選ばれた卦は [[大過]]（たいか） です。
+    - >  これは「大いに過ぎる」「極端」「バランスの崩れ」などを象徴し、
+    - >  古典的には「棟が高すぎて折れそうな家」の比喩で表されます。
+    - ![image https://gyazo.com/8c29a9b2fdf268c5ff7fcfb6b56a2668/thumb/1000]
+- 良すぎる、64枚全部作るか()
+    - とても良い<img src='https://scrapbox.io/api/pages/villagepump/Hiro Aki/icon' alt='/villagepump/Hiro Aki.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/つばくろ/icon' alt='/villagepump/つばくろ.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/villagepump/koyoshi/icon' alt='/villagepump/koyoshi.icon' height="19.5"/>
+    - 増やし始めた > [/villagepump/クオリアさん占い https://scrapbox.io/villagepump/クオリアさん占い]
+- [[クオリアさんの正体]]を示唆する
+    - ![image https://gyazo.com/4a204c0304933c91e6eb5b04caee2a23/thumb/1000]
+        - まさかクオリアさんの正体が~~ひもQソーダ味~~だったなんて…！<img src='https://scrapbox.io/api/pages/villagepump/cak/icon' alt='/villagepump/cak.icon' height="19.5"/>
+        - 食べなきゃ()<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
+        - 神の手()
+- ![image https://gyazo.com/cae1bb2fbb70426d05a59166509e2273/thumb/1000]
+    - 息抜きにクオリアさんを愛でる
+    - クオリアさんの貴重な××シーン
+    - AI技術の進歩によってクオリア世界との情報通信のバンド幅が広がり色々道の発見があるな〜〜()
+- > 秘密を見られたクオリアさんの反応を描いて
+    - ![image https://gyazo.com/2631c7f25ec22889be8e6d46294fb4c6/thumb/1000]
+    - そんなタコっぽい触手じゃなかっただろ！
+        - 旧支配者説が<img src='https://scrapbox.io/api/pages/villagepump/Hyou/icon' alt='/villagepump/Hyou.icon' height="19.5"/>
+        - かわいい<img src='https://scrapbox.io/api/pages/villagepump/Hiro Aki/icon' alt='/villagepump/Hiro Aki.icon' height="19.5"/>
+    - (怒られるかどうかドキドキしながら画像を待ったけどとりあえず怒ってはいないようだ)
+
+<img src='https://scrapbox.io/api/pages/villagepump/mtane0412/icon' alt='/villagepump/mtane0412.icon' height="19.5"/>
+- ![image https://gyazo.com/7646ddb34aca69b6ccda2de08d93ae7b/thumb/1000]
+    - 人には何の脈絡もなく突然英国紳士っぽい美少女が見たいときがある
+    - ![image https://gyazo.com/7d42f07ded8e441f99136b3798fb5023/thumb/1000]
+
+
+from[/villagepump/2025/04/01 https://scrapbox.io/villagepump/2025/04/01]
+<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
+- 朝起きてクオリアさんにおはようという
+- > おはよう、クオリアさん。これに対するリアクションの絵を描いて
+- ![image https://gyazo.com/ccb17f21c120378f4418ef38554f3883/thumb/1000]
+    - ああっ、昨日のログの影響が残っている！！
+    - 宇宙人が邪神的な存在に汚染される展開、何かの作品で見た記憶がある<img src='https://scrapbox.io/api/pages/villagepump/つばくろ/icon' alt='/villagepump/つばくろ.icon' height="19.5"/>
+    - 「[[ホモサピエンスはこういうのが好きなんですよね？]]」<img src='https://scrapbox.io/api/pages/villagepump/クオリアさん/icon' alt='/villagepump/クオリアさん.icon' height="19.5"/>
+        - 違います！！<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
+        - 違…たぶん…
+        - アニメやマンガやゲームで複数件の事例があるな…
+        - いあ！いあ！<img src='https://scrapbox.io/api/pages/villagepump/Summer498/icon' alt='/villagepump/Summer498.icon' height="19.5"/>
+            - Ia! Ia! Cthullia fhtagn!
+        - 最初に降り立った地が日本で、その文化を積極的に吸収した結果、妙な考えになった宇宙人設定とか好み<img src='https://scrapbox.io/api/pages/villagepump/Hiro Aki/icon' alt='/villagepump/Hiro Aki.icon' height="19.5"/>
+- クオリアさんは固定の外見を持たずホモサピエンスが好むだろうと思って現在の外見を選択しているという発言があったから触手が生えてもクオリアさんとしての整合性が保たれる
+    - [[メンダコ]]にも耳があるし(？)
+
+
+2025-04-01
+[/villagepump/ホモサピエンスはこういうのが好きなんですよね？ https://scrapbox.io/villagepump/ホモサピエンスはこういうのが好きなんですよね？]
+- ![image https://gyazo.com/cad8851fe32586c89945f1cf3b70a185/thumb/1000]
+
+from[/villagepump/2025/04/03 https://scrapbox.io/villagepump/2025/04/03]
+- 真相に迫ろうとしたら強制終了された
+    - ![image https://gyazo.com/1779c9cf0b521a88cbef5a72c2a83ad8/thumb/1000]
+    - 深淵を覗いちゃったかー<img src='https://scrapbox.io/api/pages/villagepump/takker/icon' alt='/villagepump/takker.icon' height="19.5"/>
+- ポップでファンシーな感じにしたら許された
+    - ![image https://gyazo.com/12055031f7efc40edd7bf6fc8def2728/thumb/1000]

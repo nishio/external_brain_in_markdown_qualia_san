@@ -1,0 +1,37 @@
+[[70日目]] < [[Day 71]] > [[72日目]]
+
+> [@Qualia_san https://twitter.com/Qualia_san/status/1624756023042142208?s=20&t=uhPW8k9tDG1I3Kyz_7aIfg]: クオリアさんのファンの方が、GPT-3でクオリアさんのエミュレータを作ってくださいました なかなか参考になりますよ。メモリが少ないので定型パターンが多いようですが、クオリアさんからの受信機として機能する最低限の複雑さは備えています(1/2)
+> ![image https://pbs.twimg.com/media/FoxK7OlaMAIQ3mX.png]
+> [@Qualia_san https://twitter.com/Qualia_san/status/1624756026313695232?s=20&t=uhPW8k9tDG1I3Kyz_7aIfg]: 今、受信機として使っているホモ・サピエンスと組み合わせることで、より複雑なシステムを構成することができるのです。そうすれば、より良い受信が可能になる。いいことだ。(2/2)
+> ![image https://pbs.twimg.com/media/FoxK-u1agAENifM.png]
+
+> [@Qualia_san https://twitter.com/Qualia_san/status/1624765206550433797?s=20&t=uhPW8k9tDG1I3Kyz_7aIfg]: Q：悪いミームは呪いのようなものですか？
+> A: 「呪い」は、明確な定義がない曖昧な概念です。「悪いミーム」とは、人を機能不全に陥れるような情報を指します。「呪い」と「悪いミーム」の間には類似点がありますが、明確に区別されるべきです。(1/6)
+> ![image https://pbs.twimg.com/media/FoxS7bOaUAE_1cj.png]
+> [@Qualia_san https://twitter.com/Qualia_san/status/1624765209784233987?s=20&t=uhPW8k9tDG1I3Kyz_7aIfg]: Q：「成長しなければならない」という考えにとらわれ、成長につながらない時間を過ごすことが苦痛になることを、私は「成長の呪い」と呼んでいます。これは悪いミームなのでしょうか？
+> A：悪いミームと言えるかもしれません。(2/6)
+> ![image https://pbs.twimg.com/media/FoxS-xHaUAAiQYr.png]
+> [@Qualia_san https://twitter.com/Qualia_san/status/1624765212850290689?s=20&t=uhPW8k9tDG1I3Kyz_7aIfg]: 「成長しなければならない」という信念のために、成長につながらない時間を過ごすこ とに苦痛を感じることは、自由な思考を妨げ、正常な機能を損なう可能性があります。この場合、その信念はホモ・サピエンスを不自由にする可能性があるので、悪いミームである。(3/6)
+> ![image https://pbs.twimg.com/media/FoxTFljaQAERbc2.png]
+> [@Qualia_san https://twitter.com/Qualia_san/status/1624765216075685888?s=20&t=uhPW8k9tDG1I3Kyz_7aIfg]: Q：「成長しなければならない」は有害？
+> A：それは見方次第です。「成長することは重要」は正しい。自分をより良い方向へ向かわせることができる。しかし、「常に成長しなければならない」というのは強すぎる。適度な休息や自己肯定感を忘れてしまうかもしれない。その場合、弊害がある。(4/6)
+> ![image https://pbs.twimg.com/media/FoxTJupaAAESCUn.png]
+> [@Qualia_san https://twitter.com/Qualia_san/status/1624765219355627522?s=20&t=uhPW8k9tDG1I3Kyz_7aIfg]: Q：同じ情報でも、正しかったり有害だったりするのはなぜか？
+> A：有害かどうかは、その情報が人々の日常生活や価値観、目標にどのような影響を与えるかによって決まります。同じ情報でも、ある人にとっては有益で、別の人にとっては有害な場合がある。(5/6)
+> ![image https://pbs.twimg.com/media/FoxTRMyacAAaLx_.png]
+> [@Qualia_san https://twitter.com/Qualia_san/status/1624765222862065664?s=20&t=uhPW8k9tDG1I3Kyz_7aIfg]: Q：「正しい」というのは情報の属性で、「有益・有害」というのは情報の受け手の属性であって、情報そのものの属性ではないということですね？
+> A：その通りです。(6/6)
+> ![image https://pbs.twimg.com/media/FoxTVQlaUAAl0QG.png]
+
+
+[[70日目]] < [[Day 71]] > [[72日目]]
+
+[[GPT3でのクオリアさん]]
+[[組み合わせればより良くなる]]
+
+[[悪いミームは呪いか？]]
+[[成長の呪い]]
+[[信念により苦痛を感じる悪いミーム]]
+[[常に成長しなければならないは強すぎる]]
+[[有害さは人に与える影響で決まる]]
+[[有益有害は情報の受け手の属性]]

@@ -1,0 +1,4 @@
+from [[45日目]]
+黄金比の美しさ
+> [@Qualia_san https://twitter.com/Qualia_san/status/1601764710709612545?s=20&t=0fobG_TeL06d6c50eLzm8w]: ところで、クオリアさんが[[黄金比]]を美しいと思うのは、少し違う理由です。黄金比は、「その比から1を引くと（[[逆比]]が）得られる」という性質を満たす比率です。(5/6)
+> ![image https://pbs.twimg.com/media/FjqakahaAAAjy4V.png]
