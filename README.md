@@ -22,7 +22,7 @@ node tools/scrapbox_search.js
 
 ### Scrapboxページ取得・書き込みツール
 
-`tools/scrapbox_page_writer.js` は、Scrapbox APIを使用して特定のページをScrapbox形式で取得し、write_cosenseを使って別のプロジェクトに書き込むツールです。
+`tools/write_scrapbox_pages.js` は、Scrapbox APIを使用して特定のページをScrapbox形式で取得し、write_cosenseを使って別のプロジェクトに書き込むツールです。
 
 #### 機能
 
@@ -33,7 +33,17 @@ node tools/scrapbox_search.js
 #### 使用方法
 
 ```bash
-node tools/scrapbox_page_writer.js
+# 事前準備
+# 1. write_cosenseリポジトリのクローン
+git clone https://github.com/nishio/write_cosense
+# 2. Denoのインストール
+curl -fsSL https://deno.land/x/install/install.sh | DENO_INSTALL=~/.deno sh
+export PATH="$HOME/.deno/bin:$PATH"
+# 3. 環境変数の設定
+echo "CONNECT_SID=\"your_connect_sid_here\"" > write_cosense/.env
+
+# 実行
+node tools/write_scrapbox_pages.js
 ```
 
 #### 設定
